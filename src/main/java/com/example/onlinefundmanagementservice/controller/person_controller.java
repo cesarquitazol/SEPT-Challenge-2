@@ -1,2 +1,4 @@
-package com.example.onlinefundmanagementservice.controller;public class person_controller {
+package com.example.onlinefundmanagementservice.controller;
+
+public class person_controller {
 }
